@@ -38,5 +38,11 @@
   <li>Puedes realizar múltiples conversiones o salir del programa</li>
 </ol>
 <footer>
-  <h4>Desarrollado como parte del Challenge de Alura Latam 🚀</h4>
+  
+  <h2>Notas</h4>
+  <ul>
+    <li>Desarrollado como parte del Challenge de Alura Latam</li>
+    <li>Las tasas de cambio se actualizan automáticamente</li>
+    <li>El proyecto demuestra conceptos fundamentales de Java, consumo de APIs y manejo de excepciones</li>
+  </ul>
 </footer>
