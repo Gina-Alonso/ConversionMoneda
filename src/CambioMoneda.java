@@ -31,7 +31,7 @@ public class CambioMoneda {
     }
 
     String conversion(double valorCambio){
-        System.out.println("Cantidad a cambiar -> ");
+        System.out.println("Cantidad a cambiar MXN -> ");
         double cantidad = sc.nextDouble();
 
         return cantidad+" MXN --> "+(cantidad*valorCambio);
