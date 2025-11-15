@@ -1,7 +1,10 @@
-<h1 aling="center" >💱Conversor de Monedas</h1>
+<h1>💱Conversor de Monedas</h1>
 <h4 align="center">
 :construction: Proyecto en construcción :construction:
 </h4>
+<h5 align="center">
+  🌟
+  Proximamente mas funcionalidades🌟</h5>
 <h2>Descripcion del proyecto</h2>
 <p>Un conversor de divisas desarrollado en Java como parte del Challenge de Alura Latam, que permite realizar conversiones entre la moneda mexicana (MXN) y las principales divisas internacionales.</p>
 <b>Caracteristicas</b>
